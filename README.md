@@ -74,7 +74,7 @@ Smith needs some help in preparing a timetable for his school. Outside of school
 
 |Sample Input|Sample Output|
 |------------|-------------|
-|9<br/>Biology<br/>Wednesday 3<br/>World History<br/>Monday 1<br/>Maths <br/>Wednesday 1<br/>Social Studies<br/>Friday 2<br/>Painting<br/>Friday 4<br/>Marine Biology<br/>Monday 4 <br/>Algebra<br/>Friday 1<br/> Accounting<br/>Wednesday 2<br/>Economics<br/>Wednesday 4|![Answer](https://raw.githubusercontent.com/americanexpress/codeandsolve/master/solution.png)|
+|9<br/>Biology<br/>Wednesday 3<br/>World History<br/>Monday 1<br/>Maths <br/>Wednesday 1<br/>Social Studies<br/>Friday 2<br/>Painting<br/>Friday 4<br/>Marine Biology<br/>Monday 4 <br/>Algebra<br/>Friday 1<br/> Accounting<br/>Wednesday 2<br/>Economics<br/>Wednesday 4|![Answer](solution.png)|
 
 ### Contributing
 
