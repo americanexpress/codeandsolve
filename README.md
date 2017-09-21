@@ -28,7 +28,7 @@ Sarah owns a Cookie shop. Sarah has a limited number of types of cookies, but s
 - No limit on maximum amount that a person can use.
 - Each cookie has a name, price and donation amount. 
 - Name should be less than 20 characters
-- Price and Donation amount should be > 0
+- Price amount should be > 0 and Donation amount should be >= 0
 - Result should display maximum donation amount Sarah can hold with the combination of cookies.
 
 |Sample Input <br/> (Format: <br/> Maximum Money <br/> Name of the Cookie, Price ($), Donation Amount ($))|Sample Output|
